@@ -1,5 +1,5 @@
 # Lab: Integrating Launch Files into a ROS 2 Package
-### turtle_bringup — RAS 2110
+### turtle_bringup — RA305 Robotics Programming
 
 ---
 
