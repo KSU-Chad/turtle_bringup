@@ -67,7 +67,7 @@ cd ~/turtle_ws/src
 
 ```bash
 git clone https://github.com/KSU-Chad/turtle_bringup.git
-
+```
 ### Step 4: Confirm the structure
 
 ```bash
