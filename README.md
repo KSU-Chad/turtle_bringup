@@ -88,7 +88,7 @@ Copy the launch file you created in the previous activity into the 'turtle_ws/sr
 
 ```bash
 cd
-mv launch/turtle_bringup_args.launch.py turtle_ws/src/turtle_bringup/launch/
+mv launch/turtle_bringup.launch.py turtle_ws/src/turtle_bringup/launch/
 ```
 
 ## Part 2 — Build and Source
